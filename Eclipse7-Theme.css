@@ -216,4 +216,20 @@ font-size: 8px
     border-radius:15px;
 }
 
-
+/* fix invite panel */
+.headerContainer-3uxewi {
+    background:black;
+    border-radius:20px;
+    margin-bottom: 3px !important;
+    margin-top: -11px !important;
+}
+.input-cIJ7To {
+    background:#040614;
+    border-radius:20px;
+}
+.da-separator {
+    background:#040614;
+}
+.wrapper-O5i5-0 {
+    color:red;
+}

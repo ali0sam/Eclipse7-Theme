@@ -1,0 +1,219 @@
+/* start */
+
+/* badge server */
+
+.iconBackgroundTierThree-3qw3JX {
+    content: url('https://discordemoji.com/assets/emoji/6817_Discord_Verified.png');
+    
+}
+
+
+
+/* change bdg */
+
+
+
+[user_by_bdfdb="575933571186032641"] + .headerInfo-30uryT .da-profileBadgeHypeSquadOnlineHouse2 {
+    background:none;
+    
+    content: url('https://i.redd.it/e63co024yh741.png');
+}
+
+
+
+/* home icon */
+.da-childWrapper {
+    content: url('https://cdn.discordapp.com/attachments/750333325951893615/754287248106586122/E7.png');
+    background:none;
+}
+/* sina bdg */
+[user_by_bdfdb="724336375989665902"] + .headerInfo-30uryT .profileGuildSubscriberlvl1-pKd1EZ {
+    background:none;
+    
+    content: url('https://cdn.discordapp.com/attachments/750333325951893615/754336953763234004/ECLIPSE_7_.gif');
+}
+
+/* main background color */
+.theme-dark{
+  /* THESE ARE THE TINTS/COLORS OF YOUR THEME. CHANGE THEIR OPACITY TO SHOW YOUR BG */
+  --background-secondary:#060a17!important; /* channel/member columns */
+  --background-primary:#060a17 !important; /* primary window bg */
+  --background-tertiary: #060a17; /* server bar/search */
+}
+/* feiends list background */
+.tabBody-3YRQ8W {
+    background:#0b0f1c;
+    
+}
+/* channels box */
+.content-3at_AU {
+    background: rgb(8,10,27);
+background: linear-gradient(90deg, rgba(8,10,27,1) 0%, rgba(47,79,181,0.227328431372549) 35%, rgba(36,32,48,0.09007352941176472) 100%);
+    border-radius:15px;
+}
+/* user panel */
+.container-3baos1 {
+    background:#000012;
+    border-radius: 35px;
+  padding: 20px;
+  width: 200px;
+  height: 16px;
+}
+.panels-j1Uci_ {
+    background:none;
+}
+/* panels item */
+.layout-2DM8Md {
+    border-radius:30px;
+}
+/* status panel */
+.header-3C6qT5 {
+    border-radius:90px;
+    background:#000012;
+    padding: 2px;
+  width: 760px;
+  height: 70px;
+  margin-bottom: 20px !important;
+    margin-top: 50px !important;
+}
+.headerText-2uyvpY {
+     margin-bottom: 20px !important;
+    margin-top: 20px !important;
+}
+.children-rWhLdy {
+    border-radius:4px;
+    background:#000C13;
+    color:none;
+}
+.formGroup-2hEDrJ {
+    background:none;
+}
+.close-hZ94c6 {
+    background:#000C13;
+}
+/* active now op */
+.popout-38lTFE {
+    border-radius:23px;
+}
+.wrapper-3Rixsz {
+    border-radius:12px;
+}
+.body-1ld4H7 {
+    border-radius:30px;
+}
+
+/* items edit */
+/* channels icon */
+.content-3at_AU {
+    
+    border-radius:10px;
+}
+/* upload items */
+.button-38aScr {
+    border-radius:20px;
+}
+/* server st items */
+.item-1tOPte {
+    border-radius:6px;
+}
+.scroller-3BxosC {
+    background:#050714;
+    border-radius:10px;
+}
+
+.item-1tOPte {
+    border-radius:30;
+}
+/* prof main */
+.flex-1xMQg5 {
+    border-radius:50px;
+}
+.listRow-hutiT_ {
+    border-radius:40px;
+}
+/* stng items */
+.userInfoViewing-16kqK3 {
+    border-radius:40px;
+}
+
+/* chat box */
+.scrollableContainer-2NUZem {
+    border-radius:40px;
+    background:black;
+}
+.channelTextArea-rNsIhG {
+    margin-bottom: 7px !important;
+    margin-top: -14px !important;
+  }
+
+.typing-2GQL18 {
+font-size: 11px
+
+}
+
+.typing-2GQL18 {
+    margin-bottom: -6px !important;
+    margin-top: -24px !important;
+    
+}
+
+.slowModeIcon-1BPDC_ {
+    display: none !important;
+}
+.jumpToPresentBar-G1R9s6 {
+     margin-bottom: 11px !important;
+    margin-top: -20px !important;
+}
+
+
+
+/* emoji panel */
+.inspector-S2gM3e {
+    border-radius:50px;
+    background:#000014;
+}
+
+/* user in voice logo */
+.inner-2O5YO7 {
+    background:none;
+}
+.wrapper-3BZGuR {
+    background:none;
+}
+.content-2Sfaij {
+    background:black;
+}
+/* invite panel */
+.scroller-2hZ97C {
+    background:#09091E;
+    border-radius:20px;
+}
+/* noice gir p */
+.noiseCancellationPopout-iRK2A0 {
+    background:#0E0E20;
+    border-radius:26px;
+}
+
+/* spoiler color */
+.theme-dark .spoilerText-3p6IlD.hidden-HHr2R9 {
+    background-color: #001B6F;
+}
+
+/* voice connected */
+.container-1giJp5 {
+    background:#050510;
+    border-radius:25px;
+}
+
+/* fix r click*/
+.menu-3sdvDG {
+    background:none;
+}
+.scroller-3BxosC {
+    border-radius:25px;
+}
+.item-1tOPte {
+    border-radius:15px;
+}
+
+

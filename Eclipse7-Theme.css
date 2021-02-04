@@ -142,17 +142,17 @@ background: linear-gradient(90deg, rgba(8,10,27,1) 0%, rgba(47,79,181,0.22732843
     background:black;
 }
 .channelTextArea-rNsIhG {
-    margin-bottom: 7px !important;
-    margin-top: -14px !important;
+    margin-bottom: 8px !important;
+    margin-top: -13px !important;
   }
 
 .typing-2GQL18 {
-font-size: 11px
+font-size: 8px
 
 }
 
 .typing-2GQL18 {
-    margin-bottom: -6px !important;
+    margin-bottom: -8px !important;
     margin-top: -24px !important;
     
 }
@@ -216,4 +216,20 @@ font-size: 11px
     border-radius:15px;
 }
 
-
+/* fix invite panel */
+.headerContainer-3uxewi {
+    background:black;
+    border-radius:20px;
+    margin-bottom: 3px !important;
+    margin-top: -11px !important;
+}
+.input-cIJ7To {
+    background:#040614;
+    border-radius:20px;
+}
+.da-separator {
+    background:#040614;
+}
+.wrapper-O5i5-0 {
+    color:red;
+}
